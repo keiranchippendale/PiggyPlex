@@ -26,7 +26,7 @@ I’m a **full-stack developer and digital creative** with **10+ years of experi
 My work sits at the intersection of **engineering, design, and performance**.  
 I enjoy turning complex ideas into **clean, scalable systems** that feel effortless to use.
 
-Over the years, I’ve worked across a wide range of industries — from **online radio and gaming** to **healthcare, education, and fashion** — adapting quickly, learning fast, and always aiming to deliver work that’s both technically sound and visually refined.
+Over the years, I’ve worked across a wide range of industries from **online radio and gaming** to **healthcare, education, and fashion** — adapting quickly, learning fast, and always aiming to deliver work that’s both technically sound and visually refined.
 
 I value:
 - Clean architecture
